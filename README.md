@@ -15,7 +15,7 @@ This dataset is a taken from kaggle.
 You can download this from here: [Dataset](https://www.kaggle.com/code/sachinbagale/walmart-confidence-interval-and-clt/input?select=walmart_data.csv)
 
 ## **Business Problem**
-1. The Management team at Walmart Inc. wants to analyze the customer purchase behavior (specifically, purchase amount) against the customer’s gender and the various
+1. The Management team at Walmart Inc. wants to analyze the customer purchase behavior (specifically, purchase amount) against the customer’s gender and the various
 other factors to help the business make better decisions.
 2. They want to understand if the spending habits differ between male and female
 customers: Do women spend more on Black Friday than men? 
