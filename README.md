@@ -10,10 +10,6 @@ This project is all about using the concepts of Confidence Intervals and Central
   3. Application of CLT (Central Limit Theorem)
   4. Conclusions and Recommendations
 
-## **Dataset**
-This dataset is a taken from kaggle. 
-You can download this from here: [Dataset](https://www.kaggle.com/code/sachinbagale/walmart-confidence-interval-and-clt/input?select=walmart_data.csv)
-
 ## **Business Problem**
 1. The Management team at Walmart Inc. wants to analyze the customer purchase behavior (specifically, purchase amount) against the customer’s gender and the various
 other factors to help the business make better decisions.
