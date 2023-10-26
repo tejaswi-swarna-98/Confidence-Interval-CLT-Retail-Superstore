@@ -1,4 +1,4 @@
-# Case-Study-Confidence-Interval-CLT
+# Confidence-Interval-CLT-Retail-Superstore
 This project is all about utilizing the concepts of Confidence Interval and Central Limit Theorem to to analyze the customer purchase behavior against the customer’s gender and the various other factors to help the business make better decisions. 
 
 ## **Overview**
