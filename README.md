@@ -1,4 +1,4 @@
-# Walmart-Confidence-Interval-CLT
+# Case-Study-Confidence-Interval-CLT
 This project is all about utilizing the concepts of Confidence Interval and Central Limit Theorem to to analyze the customer purchase behavior against the customer’s gender and the various other factors to help the business make better decisions. 
 
 ## **Overview**
@@ -11,11 +11,9 @@ This project is all about using the concepts of Confidence Intervals and Central
   4. Conclusions and Recommendations
 
 ## **Business Problem**
-1. The Management team at Walmart Inc. wants to analyze the customer purchase behavior (specifically, purchase amount) against the customer’s gender and the various
-other factors to help the business make better decisions.
-2. They want to understand if the spending habits differ between male and female
-customers: Do women spend more on Black Friday than men? 
-The company collected the transactional data of customers who purchased products from the Walmart Stores during Black Friday
+The Management team at at a multi-national retail hypermarket gaint wants to analyze the customer purchase behavior (specifically, purchase amount) against the customer’s gender and the various other factors to help the business make better decisions.They want to understand if the spending habits differ between male and female customers: Do women spend more on Black Friday than men? 
+
+The company collected the transactional data of customers who purchased products from the stores during Black Friday
 
 ## **Tools Used**
 - NumPy
